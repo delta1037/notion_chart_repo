@@ -17,7 +17,7 @@ g = {}
 IMG_WIDTH = 380
 IMG_HEIGHT = 220
 
-TYPES_EXCLUDED = ['relation', 'person', 'date']
+TYPES_EXCLUDED = ['person', 'date']
 URL_BASE = 'https://www.notion.so/businesstime/{}?v={}'
 CHART_URL = f'https://quickchart.io/chart?w={IMG_WIDTH}&h={IMG_HEIGHT}'
 
